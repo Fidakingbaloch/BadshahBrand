@@ -1,4 +1,4 @@
-# PakTool
+# BadshahBrand
 Assalam o Alaikum Friends
 How Are You
 
@@ -13,12 +13,12 @@ pkg install python
 pkg install python2
 pip2 install requests
 pip2 install mechanize
-git clone http://github.com/ZahidMahmood786/PakTool
-cd PakTool
+git clone http://github.com/badshahsarfraz/BadshahBrand
+cd BadshahBrand
 ls
-python2 pak.py
+python2 badshah.py
 
 
 Enjoy.....
 Dont Forget To Subscribe My Channel
-https://m.youtube.com/ZeeKTricks
+https://www.youtube.com/channel/UC0hAMP0ye2H5Ygs1e2oP0EA
